@@ -1,0 +1,16 @@
+#!/home/plone/workspace/Plone5/sites/bin/python
+
+import sys
+sys.path[0:0] = [
+  '/home/plone/.buildout/eggs/diazo-1.2.1-py2.7.egg',
+  '/home/plone/.buildout/eggs/six-1.8.0-py2.7.egg',
+  '/home/plone/.buildout/eggs/future-0.14.0-py2.7.egg',
+  '/home/plone/.buildout/eggs/cssselect-0.9.1-py2.7.egg',
+  '/home/plone/.buildout/eggs/lxml-3.4.4-py2.7-linux-x86_64.egg',
+  '/home/plone/.buildout/eggs/setuptools-18.3.1-py2.7.egg',
+  ]
+
+import diazo.compiler
+
+if __name__ == '__main__':
+    sys.exit(diazo.compiler.main())

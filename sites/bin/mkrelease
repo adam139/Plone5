@@ -1,0 +1,16 @@
+#!/home/plone/workspace/Plone5/sites/bin/python
+
+import sys
+sys.path[0:0] = [
+  '/home/plone/.buildout/eggs/jarn.mkrelease-3.8-py2.7.egg',
+  '/home/plone/.buildout/eggs/lazy-1.2-py2.7.egg',
+  '/home/plone/.buildout/eggs/setuptools_git-1.1-py2.7.egg',
+  '/home/plone/.buildout/eggs/setuptools_hg-0.4-py2.7.egg',
+  '/home/plone/.buildout/eggs/setuptools_subversion-3.1-py2.7.egg',
+  '/home/plone/.buildout/eggs/setuptools-18.3.1-py2.7.egg',
+  ]
+
+import jarn.mkrelease.mkrelease
+
+if __name__ == '__main__':
+    sys.exit(jarn.mkrelease.mkrelease.main())
