@@ -1,0 +1,6 @@
+[submodule "sites/src/pas.plugins.sqlalchemy"]
+	path = sites/src/pas.plugins.sqlalchemy
+	url = git@github.com:collective/pas.plugins.sqlalchemy.git
+[submodule "sites/src/collective.saconnect"]
+	path = sites/src/collective.saconnect
+	url = git@github.com:collective/collective.saconnect.git
