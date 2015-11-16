@@ -112,7 +112,7 @@ sys.path[0:0] = [
   '/home/plone/.buildout/eggs/zope.app.locales-3.6.2-py2.7.egg',
   '/home/plone/.buildout/eggs/z3c.autoinclude-0.3.5-py2.7.egg',
   '/home/plone/.buildout/eggs/slimit-0.8.1-py2.7.egg',
-  '/home/plone/.buildout/eggs/plonetheme.barceloneta-1.6.14-py2.7.egg',
+  '/home/plone/workspace/Plone5/sites/src/plonetheme.barceloneta',
   '/home/plone/.buildout/eggs/plone.theme-3.0.0-py2.7.egg',
   '/home/plone/.buildout/eggs/plone.schema-1.0a1-py2.7.egg',
   '/home/plone/.buildout/eggs/plone.portlet.static-3.0.2-py2.7.egg',

@@ -4,3 +4,6 @@
 [submodule "sites/src/collective.saconnect"]
 	path = sites/src/collective.saconnect
 	url = git@github.com:collective/collective.saconnect.git
+[submodule "sites/src/plonetheme.barceloneta"]
+	path = sites/src/plonetheme.barceloneta
+	url = git@github.com:adam139/plonetheme.barceloneta.git
