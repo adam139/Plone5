@@ -10,3 +10,12 @@
 [submodule "sites/src/emc.bokeh"]
 	path = sites/src/emc.bokeh
 	url = git@github.com:adam139/emc.bokeh.git
+[submodule "sites/src/emc.policy"]
+	path = sites/src/emc.policy
+	url = git@github.com:adam139/emc.policy.git
+[submodule "sites/src/emc.theme"]
+	path = sites/src/emc.theme
+	url = git@github.com:adam139/emc.theme.git
+[submodule "sites/src/emc.project"]
+	path = sites/src/emc.project
+	url = git@github.com:adam139/emc.project.git
