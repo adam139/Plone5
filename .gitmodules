@@ -19,3 +19,18 @@
 [submodule "sites/src/emc.project"]
 	path = sites/src/emc.project
 	url = git@github.com:adam139/emc.project.git
+[submodule "sites/src/Products.CMFPlone"]
+	path = sites/src/Products.CMFPlone
+	url = git@github.com:adam139/Products.CMFPlone.git
+[submodule "sites/src/collective.filepreviewbehavior"]
+	path = sites/src/collective.filepreviewbehavior
+	url = git@github.com:adam139/collective.filepreviewbehavior.git
+[submodule "sites/src/collective.gtags"]
+	path = sites/src/collective.gtags
+	url = git@github.com:adam139/collective.gtags.git
+[submodule "sites/src/emc.memberArea"]
+	path = sites/src/emc.memberArea
+	url = git@github.com:adam139/emc.memberArea.git
+[submodule "sites/src/collective.quickupload"]
+	path = sites/src/collective.quickupload
+	url = git@github.com:adam139/collective.quickupload.git
