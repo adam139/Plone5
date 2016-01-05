@@ -19,9 +19,6 @@
 [submodule "sites/src/emc.project"]
 	path = sites/src/emc.project
 	url = git@github.com:adam139/emc.project.git
-[submodule "sites/src/Products.CMFPlone"]
-	path = sites/src/Products.CMFPlone
-	url = git@github.com:adam139/Products.CMFPlone.git
 [submodule "sites/src/collective.filepreviewbehavior"]
 	path = sites/src/collective.filepreviewbehavior
 	url = git@github.com:adam139/collective.filepreviewbehavior.git
