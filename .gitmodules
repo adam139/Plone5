@@ -34,3 +34,6 @@
 [submodule "sites/src/emc.kb"]
 	path = sites/src/emc.kb
 	url = git@github.com:adam139/emc.kb.git
+[submodule "sites/src/plone.dexterity"]
+	path = sites/src/plone.dexterity
+	url = git@github.com:adam139/plone.dexterity.git
