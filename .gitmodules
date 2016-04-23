@@ -28,9 +28,6 @@
 [submodule "sites/src/emc.memberArea"]
 	path = sites/src/emc.memberArea
 	url = git@github.com:adam139/emc.memberArea.git
-[submodule "sites/src/collective.quickupload"]
-	path = sites/src/collective.quickupload
-	url = git@github.com:adam139/collective.quickupload.git
 [submodule "sites/src/emc.kb"]
 	path = sites/src/emc.kb
 	url = git@github.com:adam139/emc.kb.git
