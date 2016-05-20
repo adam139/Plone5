@@ -34,3 +34,6 @@
 [submodule "sites/src/plone.dexterity"]
 	path = sites/src/plone.dexterity
 	url = git@github.com:adam139/plone.dexterity.git
+[submodule "sites/src/mockup"]
+	path = sites/src/mockup
+	url = git@github.com:adam139/mockup.git
