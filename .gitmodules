@@ -1,12 +1,6 @@
 [submodule "sites/src/pas.plugins.sqlalchemy"]
 	path = sites/src/pas.plugins.sqlalchemy
 	url = git@github.com:collective/pas.plugins.sqlalchemy.git
-[submodule "sites/src/collective.saconnect"]
-	path = sites/src/collective.saconnect
-	url = git@github.com:collective/collective.saconnect.git
-[submodule "sites/src/plonetheme.barceloneta"]
-	path = sites/src/plonetheme.barceloneta
-	url = git@github.com:adam139/plonetheme.barceloneta.git
 [submodule "sites/src/emc.bokeh"]
 	path = sites/src/emc.bokeh
 	url = git@github.com:adam139/emc.bokeh.git
