@@ -31,3 +31,6 @@
 [submodule "sites/src/mockup"]
 	path = sites/src/mockup
 	url = git@github.com:adam139/mockup.git
+[submodule "sites/src/Products.PlonePAS"]
+	path = sites/src/Products.PlonePAS
+	url = git@github.com:adam139/Products.PlonePAS.git
