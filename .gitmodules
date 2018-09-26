@@ -34,3 +34,6 @@
 [submodule "sites/src/Products.PlonePAS"]
 	path = sites/src/Products.PlonePAS
 	url = git@github.com:adam139/Products.PlonePAS.git
+[submodule "sites/src/emc.auth"]
+	path = sites/src/emc.auth
+	url = git@github.com:adam139/emc.auth.git
